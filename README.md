@@ -3,17 +3,17 @@
    Linux - Kali 2025.1c
    Kernal - 6.12.25-amd64
 ### Linux Kernel Packages:
-   - linux-headers-6.12.25-amd64            6.12.25-1kali1                           amd64        Header files for Linux 6.12.25-amd64
-   - linux-headers-6.12.25-common           6.12.25-1kali1                           all          Common header files for Linux 6.12.25
-   - linux-image-6.12.13-amd64              6.12.13-1kali1                           amd64        Linux 6.12 for 64-bit PCs
-   - linux-image-6.12.25-amd64              6.12.25-1kali1                           amd64        Linux 6.12 for 64-bit PCs
-   - linux-image-amd64                      6.12.25-1kali1                           amd64        Linux for 64-bit PCs (meta-package)
-   - gcc-14                                 14.2.0-19                                amd64        GNU C compiler
-   - bc                                     1.07.1-4                                 amd64        GNU bc arbitrary precision calculator language
-   - dkms                                   3.2.0-1                                  all          Dynamic Kernel Module System (DKMS)
-   - libelf-dev:amd64                       0.192-4                                  amd64        libelf1t64 development libraries and header files
-   - mokutil                                0.7.2-1                                  amd64        tools for manipulating machine owner keys
-   - build-essential                        12.12                                    amd64        Informational list of build-essential packages
+   - linux-headers-6.12.25-amd64            6.12.25-1kali1                           amd64
+   - linux-headers-6.12.25-common           6.12.25-1kali1                           all
+   - linux-image-6.12.13-amd64              6.12.13-1kali1                           amd64
+   - linux-image-6.12.25-amd64              6.12.25-1kali1                           amd64
+   - linux-image-amd64                      6.12.25-1kali1                           amd64
+   - gcc-14                                 14.2.0-19                                amd64
+   - bc                                     1.07.1-4                                 amd64
+   - dkms                                   3.2.0-1                                  all
+   - libelf-dev:amd64                       0.192-4                                  amd64
+   - mokutil                                0.7.2-1                                  amd64
+   - build-essential                        12.12                                    amd64
 
 
 
