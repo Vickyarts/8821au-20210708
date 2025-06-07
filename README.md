@@ -1,3 +1,18 @@
+# 8821au Driver:
+## Tested:
+   Linux - Kali 2025.1c
+   Kernal - 6.12.25-amd64
+### Linux Kernel Packages:
+   gcc-14                                 14.2.0-19                                amd64        GNU C compiler
+   linux-headers-6.12.25-amd64            6.12.25-1kali1                           amd64        Header files for Linux 6.12.25-amd64
+   linux-headers-6.12.25-common           6.12.25-1kali1                           all          Common header files for Linux 6.12.25
+   linux-image-6.12.13-amd64              6.12.13-1kali1                           amd64        Linux 6.12 for 64-bit PCs
+   linux-image-6.12.25-amd64              6.12.25-1kali1                           amd64        Linux 6.12 for 64-bit PCs
+   linux-image-amd64                      6.12.25-1kali1                           amd64        Linux for 64-bit PCs (meta-package)
+
+
+
+
 ## 8821au ( 8821au.ko ) :rocket:
 
 Hot: An in-kernel driver for the rtl8821/11au chipsets has been merged
